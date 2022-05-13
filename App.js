@@ -16,7 +16,7 @@ const theme = {
 
 const Stack = createStackNavigator();
 
-const App = () => { 
+const App = () => {
   const [loaded] = useFonts({
     InterBold: require("./assets/fonts/Inter-Bold.ttf"),
     InterSemiBold: require("./assets/fonts/Inter-SemiBold.ttf"),
