@@ -1,9 +1,9 @@
 import React, { useState } from "react";
-import { View, SafeAreaView, FlatList } from "react-native";
+import { View, SafeAreaView, FlatList, Text } from "react-native";
 
 const Home = () => {
   return (
-    <div>Home</div>
+    <Text>Home</Text>
   )
 }
 
