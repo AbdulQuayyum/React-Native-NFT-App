@@ -38,17 +38,24 @@ const NFTData = [
     id: "NFT",
     name: "Hova",
     creator: "Quayyum",
-    price: 7.25,
+    price: 135.25,
     description:
-      "",
+      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen",
     image: assets.nft02,
     bids: [
       {
         id: "BID-21",
         name: "John Carter",
-        price: 7.05,
+        price: 130.05,
         image: assets.person04,
         date: "May 12, 2022 at 12:10 PM",
+      },
+      {
+        id: "BID-12",
+        name: "Tamarus Vincent",
+        price: 135.5,
+        image: assets.person03,
+        date: "May 12, 2022 at 12:58 PM",
       },
     ],
   },
@@ -57,7 +64,7 @@ const NFTData = [
     id: "NFT-02",
     name: "Ice-Cube",
     creator: "Savage",
-    price: 7.25,
+    price: 107.25,
     description:
       "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen",
     image: assets.nft02,
@@ -65,19 +72,25 @@ const NFTData = [
       {
         id: "BID-21",
         name: "John Carter",
-        price: 7.05,
+        price: 107.05,
         image: assets.person04,
         date: "May 13, 2019 at 10:10 PM",
       },
     ],
+  }, {
+    id: "BID-12",
+    name: "Tamarus Vincent",
+    price: 199.5,
+    image: assets.person03,
+    date: "May 09, 2022 at 06:50 PM",
   },
   {
     id: "NFT-03",
-    name: "NFT coins race",
-    creator: "Elisabeth aho",
+    name: "YE",
+    creator: "Quayyum Svage",
     price: 95.25,
     description:
-      "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis. Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis.",
+    "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
     image: assets.nft03,
     bids: [
       {
@@ -102,7 +115,7 @@ const NFTData = [
     creator: "Putri Intan",
     price: 54.25,
     description:
-      "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural.Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur.",
+      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
     image: assets.nft04,
     bids: [
       {
@@ -141,7 +154,7 @@ const NFTData = [
     creator: "David doe",
     price: 10.25,
     description:
-      "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural.",
+      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
     image: assets.nft05,
     bids: [
       {
@@ -159,7 +172,7 @@ const NFTData = [
     creator: "Leo Messi",
     price: 20.25,
     description:
-      "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis.",
+      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen",
     image: assets.nft06,
     bids: [
       {
@@ -201,11 +214,11 @@ const NFTData = [
   },
   {
     id: "NFT-07",
-    name: "Abstracto soulful art",
-    creator: "Victor de la Cruz",
-    price: 18.25,
+    name: "Makaveli",
+    creator: "Soft Da Creator",
+    price: 180.25,
     description:
-      "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis. Ullamcorper platea penatibus ornare egestas nulla ligula hendrerit nisl suscipit sociosqu maximus, tincidunt aptent habitant purus pharetra ultrices dapibus laoreet nisi lacinia. Porta malesuada netus vel sapien conubia porttitor aliquam ut pretium ante litora molestie senectus magna egestas sociosqu, eget aliquet fames pharetra felis posuere varius fringilla quisque in arcu montes eu ullamcorper.",
+      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
     image: assets.nft07,
     bids: [],
   },
