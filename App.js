@@ -22,7 +22,7 @@ const App = () => {
     InterSemiBold : require('./assets/fonts/Inter-SemiBold.ttf'),
     InterMediumBold : require('./assets/fonts/Inter-Medium.ttf'),
     InterRegularBold : require('./assets/fonts/Inter-Regular.ttf'),
-    InetrLighter : require('./assets/fonts/InetrLight.ttf')
+    InterLighter : require('./assets/fonts/Inter-Light.ttf')
   });
 
   if (!loaded) {
