@@ -3,51 +3,71 @@ import assets from "./assets";
 const NFTData = [
   {
     id: "NFT-01",
-    name: "Abstracto #312",
-    creator: "Putri Intan",
-    price: 4.25,
+    name: "2Pac #001",
+    creator: "Abdul-Quayyum",
+    price: 199.25,
     description:
-      "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural.",
+      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen",
     image: assets.nft01,
     bids: [
       {
         id: "BID-11",
-        name: "Jessica Tan",
-        price: 4.25,
-        image: assets.person02,
-        date: "December 12, 2019 at 12:10 PM",
+        name: "John Carter",
+        price: 199.25,
+        image: assets.person04,
+        date: "May 05, 2022 at 11:10 PM",
       },
       {
         id: "BID-12",
-        name: "Jennifer Sia",
-        price: 4.5,
+        name: "Tamarus Vincent",
+        price: 199.5,
         image: assets.person03,
-        date: "December 27, 2019 at 1:50 PM",
+        date: "May 09, 2022 at 06:50 PM",
       },
       {
         id: "BID-13",
-        name: "Rosie Wong",
-        price: 4.75,
-        image: assets.person04,
-        date: "December 31, 2019 at 3:50 PM",
+        name: "Fai",
+        price: 199.75,
+        image: assets.person02,
+        date: "May 11, 2022 at 09:50 AM",
       },
     ],
   },
+
   {
-    id: "NFT-02",
-    name: "Green Coins",
-    creator: "Siti Nurhaliza",
+    id: "NFT",
+    name: "Hova",
+    creator: "Quayyum",
     price: 7.25,
     description:
-      "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis.",
+      "",
     image: assets.nft02,
     bids: [
       {
         id: "BID-21",
-        name: "Jessica Tan",
+        name: "John Carter",
         price: 7.05,
         image: assets.person04,
-        date: "December 12, 2019 at 12:10 PM",
+        date: "May 12, 2022 at 12:10 PM",
+      },
+    ],
+  },
+
+  {
+    id: "NFT-02",
+    name: "Ice-Cube",
+    creator: "Savage",
+    price: 7.25,
+    description:
+      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen",
+    image: assets.nft02,
+    bids: [
+      {
+        id: "BID-21",
+        name: "John Carter",
+        price: 7.05,
+        image: assets.person04,
+        date: "May 13, 2019 at 10:10 PM",
       },
     ],
   },
