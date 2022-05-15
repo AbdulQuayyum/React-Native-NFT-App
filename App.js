@@ -18,14 +18,16 @@ const Stack = createStackNavigator();
 
 const App = () => {
   const [loaded] = useFonts({
-    InterBold : require("./assets/fonts/Inter-Bold"),
-    InterSemiBold : require("./assets/fonts/Inter-SemiBold.ttf"),
-    InterMediumBold : require("./assets/fonts/Inter-Meddium.ttf"),
-    InterRegularBold : require("./assets/fonts/Inter-Regular.ttf"),
-    InetrLighter : require("./assets/fonts/InetrLight.ttf")
+    InterBold : require('./assets/fonts/Inter-Bold.ttf'),
+    InterSemiBold : require('./assets/fonts/Inter-SemiBold.ttf'),
+    InterMediumBold : require('./assets/fonts/Inter-Medium.ttf'),
+    InterRegularBold : require('./assets/fonts/Inter-Regular.ttf'),
+    InetrLighter : require('./assets/fonts/InetrLight.ttf')
   });
 
-  if (!loaded) return null;
+  if (!loaded) {
+    return null;
+  }
 
   return (
     <NavigationContainer theme={theme}>
