@@ -289,13 +289,13 @@ const NFTData = [
     ],
   },
   {
-    id: "NFT-07",
-    name: "Makaveli",
+    id: "NFT-10",
+    name: "Kobe Bryant",
     creator: "Soft Da Creator",
     price: 180.25,
     description:
-      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
-    image: assets.nft07,
+      "The Graphics Painter created this graphic with the image Of One of the greatest BasketBaller Our World Has ever seen.",
+    image: assets.nft10,
     bids: [    
         {
         id: "BID-64",
@@ -314,13 +314,13 @@ const NFTData = [
     ],
   },
   {
-    id: "NFT-07",
-    name: "Makaveli",
-    creator: "Soft Da Creator",
+    id: "NFT-11",
+    name: "Will Smith",
+    creator: "Soft",
     price: 180.25,
     description:
-      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
-    image: assets.nft07,
+      "The Graphics Painter created this graphic with the image Of One of the greatest Actors Our World Has ever seen.",
+    image: assets.nft11,
     bids: [    
         {
         id: "BID-64",
@@ -339,13 +339,13 @@ const NFTData = [
     ],
   },
   {
-    id: "NFT-07",
-    name: "Makaveli",
-    creator: "Soft Da Creator",
+    id: "NFT-12",
+    name: "Slim Shady",
+    creator: "Quayyum",
     price: 180.25,
     description:
       "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
-    image: assets.nft07,
+    image: assets.nft12,
     bids: [    
         {
         id: "BID-64",
@@ -364,13 +364,13 @@ const NFTData = [
     ],
   },
   {
-    id: "NFT-07",
-    name: "Makaveli",
-    creator: "Soft Da Creator",
+    id: "NFT-13",
+    name: "Albert Einstein",
+    creator: "Abdul-Quayyum",
     price: 180.25,
     description:
-      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
-    image: assets.nft07,
+      "The Graphics Painter created this graphic with the image Of One of the greatest Minds Our World Has ever seen.",
+    image: assets.nft13,
     bids: [    
         {
         id: "BID-64",
@@ -389,13 +389,13 @@ const NFTData = [
     ],
   },
   {
-    id: "NFT-07",
-    name: "Makaveli",
+    id: "NFT-14",
+    name: "J-Cole",
     creator: "Soft Da Creator",
     price: 180.25,
     description:
       "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
-    image: assets.nft07,
+    image: assets.nft14,
     bids: [    
         {
         id: "BID-64",
@@ -414,13 +414,13 @@ const NFTData = [
     ],
   },
   {
-    id: "NFT-07",
-    name: "Makaveli",
+    id: "NFT-15",
+    name: "Tenechi",
     creator: "Soft Da Creator",
     price: 180.25,
     description:
       "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
-    image: assets.nft07,
+    image: assets.nft15,
     bids: [    
         {
         id: "BID-64",
@@ -439,13 +439,13 @@ const NFTData = [
     ],
   },
   {
-    id: "NFT-07",
-    name: "Makaveli",
-    creator: "Soft Da Creator",
+    id: "NFT-16",
+    name: "La Flame",
+    creator: "Soft",
     price: 180.25,
     description:
       "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
-    image: assets.nft07,
+    image: assets.nft16,
     bids: [    
         {
         id: "BID-64",
@@ -464,13 +464,13 @@ const NFTData = [
     ],
   },
   {
-    id: "NFT-07",
-    name: "Makaveli",
+    id: "NFT-17",
+    name: "Pop Smoke",
     creator: "Soft Da Creator",
     price: 180.25,
     description:
       "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
-    image: assets.nft07,
+    image: assets.nft17,
     bids: [    
         {
         id: "BID-64",
@@ -489,13 +489,13 @@ const NFTData = [
     ],
   },
   {
-    id: "NFT-07",
-    name: "Makaveli",
+    id: "NFT-18",
+    name: "Post Malone",
     creator: "Soft Da Creator",
     price: 180.25,
     description:
       "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
-    image: assets.nft07,
+    image: assets.nft18,
     bids: [    
         {
         id: "BID-64",
@@ -514,13 +514,13 @@ const NFTData = [
     ],
   },
   {
-    id: "NFT-07",
-    name: "Makaveli",
+    id: "NFT-19",
+    name: "Eazy-E",
     creator: "Soft Da Creator",
     price: 180.25,
     description:
       "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
-    image: assets.nft07,
+    image: assets.nft19,
     bids: [    
         {
         id: "BID-64",
@@ -539,13 +539,13 @@ const NFTData = [
     ],
   },
   {
-    id: "NFT-07",
-    name: "Makaveli",
+    id: "NFT-20",
+    name: "Biggie Smallz",
     creator: "Soft Da Creator",
     price: 180.25,
     description:
       "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
-    image: assets.nft07,
+    image: assets.nft20,
     bids: [    
         {
         id: "BID-64",
@@ -564,13 +564,13 @@ const NFTData = [
     ],
   },
   {
-    id: "NFT-07",
-    name: "Makaveli",
-    creator: "Soft Da Creator",
+    id: "NFT-21",
+    name: "Stan Lee",
+    creator: "Abdul-Quayyum",
     price: 180.25,
     description:
       "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
-    image: assets.nft07,
+    image: assets.nft21,
     bids: [    
         {
         id: "BID-64",
@@ -589,13 +589,13 @@ const NFTData = [
     ],
   },
   {
-    id: "NFT-07",
-    name: "Makaveli",
-    creator: "Soft Da Creator",
+    id: "NFT-22",
+    name: "Lil Nas-X",
+    creator: "Savage",
     price: 180.25,
     description:
       "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
-    image: assets.nft07,
+    image: assets.nft22,
     bids: [    
         {
         id: "BID-64",
@@ -614,13 +614,13 @@ const NFTData = [
     ],
   },
   {
-    id: "NFT-07",
-    name: "Makaveli",
-    creator: "Soft Da Creator",
+    id: "NFT-23",
+    name: "Nipsey Hussle",
+    creator: "Quayyum Savage",
     price: 180.25,
     description:
       "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
-    image: assets.nft07,
+    image: assets.nft23,
     bids: [    
         {
         id: "BID-64",
@@ -638,14 +638,14 @@ const NFTData = [
       },
     ],
   },
-  {
-    id: "NFT-07",
-    name: "Makaveli",
-    creator: "Soft Da Creator",
+   {
+    id: "NFT-24",
+    name: "Morty",
+    creator: "Quayyum",
     price: 180.25,
     description:
       "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
-    image: assets.nft07,
+    image: assets.nft24,
     bids: [    
         {
         id: "BID-64",
