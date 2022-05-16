@@ -21,12 +21,12 @@ const HomeHeader = ({ onSearch }) => {
         <Image
           source={assets.logo}
           resizeMode="contain"
-          style={{ width: 90, height: 25 }}
+          style={{ width: 90, height: 45 }}
         />
 
         <View style={{ width: 45, height: 45 }}>
           <Image
-            source={assets.person01}
+            source={assets.person05}
             resizeMode="contain"
             style={{ width: "100%", height: "100%" }}
           />
@@ -48,7 +48,7 @@ const HomeHeader = ({ onSearch }) => {
         <Text
           style={{
             fontFamily: FONTS.regular,
-            fontSize: SIZES.small,
+            fontSize: SIZES.medium,
             color: COLORS.white,
           }}
         >
@@ -63,7 +63,7 @@ const HomeHeader = ({ onSearch }) => {
             marginTop: SIZES.base / 2,
           }}
         >
-          Let’s find you A NFT
+          Let’s find you a Piece Of Art
         </Text>
       </View>
 
