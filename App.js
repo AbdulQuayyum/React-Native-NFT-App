@@ -1,6 +1,7 @@
 import React from "react";
 import { createStackNavigator } from "@react-navigation/stack";
 import { NavigationContainer, DefaultTheme } from "@react-navigation/native";
+import AppLoading from 'expo-app-loading';
 import { useFonts } from "expo-font";
 
 import Home from "./screens/Home"
@@ -16,7 +17,7 @@ const theme = {
 
 const Stack = createStackNavigator();
 
-const App = () => {
+export default function App () {
   const [fontsLoaded] = useFonts({
    'InterBold': require('./assets/fonts/Inter-Bold.ttf'),
     'InterSemiBold': require('./assets/fonts/Inter-SemiBold.ttf'),
@@ -26,7 +27,7 @@ const App = () => {
   });
 
   if (!fontsLoaded) {
-    return null;
+    return <AppLoading />;
   }
 
   return (
@@ -43,5 +44,3 @@ const App = () => {
     </NavigationContainer>
   );
 };
-
-export default App;
