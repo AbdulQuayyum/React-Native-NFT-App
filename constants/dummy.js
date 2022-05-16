@@ -76,13 +76,14 @@ const NFTData = [
         image: assets.person04,
         date: "May 13, 2019 at 10:10 PM",
       },
+       {
+        id: "BID-12",
+        name: "Tamarus Vincent",
+        price: 108.05,
+        image: assets.person03,
+        date: "May 09, 2022 at 06:50 PM",
+      },
     ],
-  }, {
-    id: "BID-12",
-    name: "Tamarus Vincent",
-    price: 108.05,
-    image: assets.person03,
-    date: "May 09, 2022 at 06:50 PM",
   },
   {
     id: "NFT-03",
@@ -284,6 +285,381 @@ const NFTData = [
         price: 111.25,
         image: assets.person05,
         date: "May 09, 2022 at 3:50 PM",
+      },
+    ],
+  },
+  {
+    id: "NFT-07",
+    name: "Makaveli",
+    creator: "Soft Da Creator",
+    price: 180.25,
+    description:
+      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
+    image: assets.nft07,
+    bids: [    
+        {
+        id: "BID-64",
+        name: "Cinnirhoy",
+        price: 180.25,
+        image: assets.person01,
+        date: "May 07, 2022 at 3:50 PM",
+      },
+      {
+        id: "BID-65",
+        name: "Quayyum",
+        price: 183.25,
+        image: assets.person05,
+        date: "May 15, 2022 at 3:50 PM",
+      },
+    ],
+  },
+  {
+    id: "NFT-07",
+    name: "Makaveli",
+    creator: "Soft Da Creator",
+    price: 180.25,
+    description:
+      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
+    image: assets.nft07,
+    bids: [    
+        {
+        id: "BID-64",
+        name: "Cinnirhoy",
+        price: 180.25,
+        image: assets.person01,
+        date: "May 07, 2022 at 3:50 PM",
+      },
+      {
+        id: "BID-65",
+        name: "Quayyum",
+        price: 183.25,
+        image: assets.person05,
+        date: "May 15, 2022 at 3:50 PM",
+      },
+    ],
+  },
+  {
+    id: "NFT-07",
+    name: "Makaveli",
+    creator: "Soft Da Creator",
+    price: 180.25,
+    description:
+      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
+    image: assets.nft07,
+    bids: [    
+        {
+        id: "BID-64",
+        name: "Cinnirhoy",
+        price: 180.25,
+        image: assets.person01,
+        date: "May 07, 2022 at 3:50 PM",
+      },
+      {
+        id: "BID-65",
+        name: "Quayyum",
+        price: 183.25,
+        image: assets.person05,
+        date: "May 15, 2022 at 3:50 PM",
+      },
+    ],
+  },
+  {
+    id: "NFT-07",
+    name: "Makaveli",
+    creator: "Soft Da Creator",
+    price: 180.25,
+    description:
+      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
+    image: assets.nft07,
+    bids: [    
+        {
+        id: "BID-64",
+        name: "Cinnirhoy",
+        price: 180.25,
+        image: assets.person01,
+        date: "May 07, 2022 at 3:50 PM",
+      },
+      {
+        id: "BID-65",
+        name: "Quayyum",
+        price: 183.25,
+        image: assets.person05,
+        date: "May 15, 2022 at 3:50 PM",
+      },
+    ],
+  },
+  {
+    id: "NFT-07",
+    name: "Makaveli",
+    creator: "Soft Da Creator",
+    price: 180.25,
+    description:
+      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
+    image: assets.nft07,
+    bids: [    
+        {
+        id: "BID-64",
+        name: "Cinnirhoy",
+        price: 180.25,
+        image: assets.person01,
+        date: "May 07, 2022 at 3:50 PM",
+      },
+      {
+        id: "BID-65",
+        name: "Quayyum",
+        price: 183.25,
+        image: assets.person05,
+        date: "May 15, 2022 at 3:50 PM",
+      },
+    ],
+  },
+  {
+    id: "NFT-07",
+    name: "Makaveli",
+    creator: "Soft Da Creator",
+    price: 180.25,
+    description:
+      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
+    image: assets.nft07,
+    bids: [    
+        {
+        id: "BID-64",
+        name: "Cinnirhoy",
+        price: 180.25,
+        image: assets.person01,
+        date: "May 07, 2022 at 3:50 PM",
+      },
+      {
+        id: "BID-65",
+        name: "Quayyum",
+        price: 183.25,
+        image: assets.person05,
+        date: "May 15, 2022 at 3:50 PM",
+      },
+    ],
+  },
+  {
+    id: "NFT-07",
+    name: "Makaveli",
+    creator: "Soft Da Creator",
+    price: 180.25,
+    description:
+      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
+    image: assets.nft07,
+    bids: [    
+        {
+        id: "BID-64",
+        name: "Cinnirhoy",
+        price: 180.25,
+        image: assets.person01,
+        date: "May 07, 2022 at 3:50 PM",
+      },
+      {
+        id: "BID-65",
+        name: "Quayyum",
+        price: 183.25,
+        image: assets.person05,
+        date: "May 15, 2022 at 3:50 PM",
+      },
+    ],
+  },
+  {
+    id: "NFT-07",
+    name: "Makaveli",
+    creator: "Soft Da Creator",
+    price: 180.25,
+    description:
+      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
+    image: assets.nft07,
+    bids: [    
+        {
+        id: "BID-64",
+        name: "Cinnirhoy",
+        price: 180.25,
+        image: assets.person01,
+        date: "May 07, 2022 at 3:50 PM",
+      },
+      {
+        id: "BID-65",
+        name: "Quayyum",
+        price: 183.25,
+        image: assets.person05,
+        date: "May 15, 2022 at 3:50 PM",
+      },
+    ],
+  },
+  {
+    id: "NFT-07",
+    name: "Makaveli",
+    creator: "Soft Da Creator",
+    price: 180.25,
+    description:
+      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
+    image: assets.nft07,
+    bids: [    
+        {
+        id: "BID-64",
+        name: "Cinnirhoy",
+        price: 180.25,
+        image: assets.person01,
+        date: "May 07, 2022 at 3:50 PM",
+      },
+      {
+        id: "BID-65",
+        name: "Quayyum",
+        price: 183.25,
+        image: assets.person05,
+        date: "May 15, 2022 at 3:50 PM",
+      },
+    ],
+  },
+  {
+    id: "NFT-07",
+    name: "Makaveli",
+    creator: "Soft Da Creator",
+    price: 180.25,
+    description:
+      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
+    image: assets.nft07,
+    bids: [    
+        {
+        id: "BID-64",
+        name: "Cinnirhoy",
+        price: 180.25,
+        image: assets.person01,
+        date: "May 07, 2022 at 3:50 PM",
+      },
+      {
+        id: "BID-65",
+        name: "Quayyum",
+        price: 183.25,
+        image: assets.person05,
+        date: "May 15, 2022 at 3:50 PM",
+      },
+    ],
+  },
+  {
+    id: "NFT-07",
+    name: "Makaveli",
+    creator: "Soft Da Creator",
+    price: 180.25,
+    description:
+      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
+    image: assets.nft07,
+    bids: [    
+        {
+        id: "BID-64",
+        name: "Cinnirhoy",
+        price: 180.25,
+        image: assets.person01,
+        date: "May 07, 2022 at 3:50 PM",
+      },
+      {
+        id: "BID-65",
+        name: "Quayyum",
+        price: 183.25,
+        image: assets.person05,
+        date: "May 15, 2022 at 3:50 PM",
+      },
+    ],
+  },
+  {
+    id: "NFT-07",
+    name: "Makaveli",
+    creator: "Soft Da Creator",
+    price: 180.25,
+    description:
+      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
+    image: assets.nft07,
+    bids: [    
+        {
+        id: "BID-64",
+        name: "Cinnirhoy",
+        price: 180.25,
+        image: assets.person01,
+        date: "May 07, 2022 at 3:50 PM",
+      },
+      {
+        id: "BID-65",
+        name: "Quayyum",
+        price: 183.25,
+        image: assets.person05,
+        date: "May 15, 2022 at 3:50 PM",
+      },
+    ],
+  },
+  {
+    id: "NFT-07",
+    name: "Makaveli",
+    creator: "Soft Da Creator",
+    price: 180.25,
+    description:
+      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
+    image: assets.nft07,
+    bids: [    
+        {
+        id: "BID-64",
+        name: "Cinnirhoy",
+        price: 180.25,
+        image: assets.person01,
+        date: "May 07, 2022 at 3:50 PM",
+      },
+      {
+        id: "BID-65",
+        name: "Quayyum",
+        price: 183.25,
+        image: assets.person05,
+        date: "May 15, 2022 at 3:50 PM",
+      },
+    ],
+  },
+  {
+    id: "NFT-07",
+    name: "Makaveli",
+    creator: "Soft Da Creator",
+    price: 180.25,
+    description:
+      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
+    image: assets.nft07,
+    bids: [    
+        {
+        id: "BID-64",
+        name: "Cinnirhoy",
+        price: 180.25,
+        image: assets.person01,
+        date: "May 07, 2022 at 3:50 PM",
+      },
+      {
+        id: "BID-65",
+        name: "Quayyum",
+        price: 183.25,
+        image: assets.person05,
+        date: "May 15, 2022 at 3:50 PM",
+      },
+    ],
+  },
+  {
+    id: "NFT-07",
+    name: "Makaveli",
+    creator: "Soft Da Creator",
+    price: 180.25,
+    description:
+      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
+    image: assets.nft07,
+    bids: [    
+        {
+        id: "BID-64",
+        name: "Cinnirhoy",
+        price: 180.25,
+        image: assets.person01,
+        date: "May 07, 2022 at 3:50 PM",
+      },
+      {
+        id: "BID-65",
+        name: "Quayyum",
+        price: 183.25,
+        image: assets.person05,
+        date: "May 15, 2022 at 3:50 PM",
       },
     ],
   },
