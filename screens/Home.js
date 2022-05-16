@@ -6,7 +6,9 @@ import { COLORS, NFTData } from "../constants";
 
 const Home = () => {
   return (
-    <Text>Home</Text>
+   <SafeAreaView style={{ flex: 1}}>
+
+   </SafeAreaView>
   )
 }
 
