@@ -17,7 +17,19 @@ const NFTCard = ( { data } ) => {
         margin: SIZES.base,
         ...SHADOWS.dark
     }}>
-        <View style={{ width: "100%" }}></View>
+        <View style={{ width: "100%", height: 250 }}>
+            <Image
+               source={data.image}
+               resizeMode="cover"
+               style={{
+                   width: "100%",
+                   height: "100%",
+                   borderTopLeftRadius: SIZES.font,
+                   borderTopRightRadius: SIZES.font,
+               }}
+            />
+
+        </View>
        <Text>NFTCard</Text>
     </View>
   )

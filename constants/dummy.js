@@ -239,11 +239,11 @@ const NFTData = [
   },
   {
     id: "NFT-08",
-    name: "College DropOut",
+    name: "LeBron James",
     creator: "Soft Da Creator",
     price: 120.25,
     description:
-      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
+      "The Graphics Painter created this graphic with the image Of One of the greatest Basketballers Our World Has ever seen.",
     image: assets.nft08,
     bids: [    
         {
@@ -264,7 +264,7 @@ const NFTData = [
   },
   {
     id: "NFT-09",
-    name: "Pain",
+    name: "Nicki Minaj",
     creator: "Abdul-Quayyum",
     price: 110.25,
     description:
