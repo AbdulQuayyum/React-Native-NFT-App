@@ -52,7 +52,7 @@ const HomeHeader = ({ onSearch }) => {
             color: COLORS.white,
           }}
         >
-          Hello Victoria 👋
+          Hello Quayyum 👋🏾
         </Text>
 
         <Text
@@ -63,7 +63,7 @@ const HomeHeader = ({ onSearch }) => {
             marginTop: SIZES.base / 2,
           }}
         >
-          Let’s find masterpiece Art
+          Let’s find you A NFT
         </Text>
       </View>
 
