@@ -490,11 +490,11 @@ const NFTData = [
   },
   {
     id: "NFT-18",
-    name: "Post Malone",
+    name: "Chadwick Boseman",
     creator: "Soft Da Creator",
     price: 180.25,
     description:
-      "The Graphics Painter created this graphic with the image Of One of the greatest Rappers Our World Has ever seen.",
+      "The Graphics Painter created this graphic with the image Of One of the greatest Actors Our World Has ever seen.",
     image: assets.nft18,
     bids: [    
         {

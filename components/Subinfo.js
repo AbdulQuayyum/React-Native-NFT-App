@@ -9,4 +9,4 @@ const SubInfo = () => {
   )
 }
 
-export default SubInfo
+export default SubInfo 
