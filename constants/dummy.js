@@ -36,7 +36,7 @@ const NFTData = [
 
   {
     id: "NFT",
-    name: "Hova",
+    name: "Hova #002",
     creator: "Quayyum",
     price: 135.25,
     description:
@@ -62,7 +62,7 @@ const NFTData = [
 
   {
     id: "NFT-02",
-    name: "Ice-Cube",
+    name: "Ice Cube #003",
     creator: "Savage",
     price: 107.25,
     description:
@@ -87,7 +87,7 @@ const NFTData = [
   },
   {
     id: "NFT-03",
-    name: "YE",
+    name: "YE #004",
     creator: "Quayyum Svage",
     price: 195.25,
     description:
@@ -112,7 +112,7 @@ const NFTData = [
   },
   {
     id: "NFT-04",
-    name: "Snoop Doog",
+    name: "Snoop Dogg #005",
     creator: "Quavo Jnr",
     price: 154.25,
     description:
@@ -151,7 +151,7 @@ const NFTData = [
   },
   {
     id: "NFT-05",
-    name: "King Kunta",
+    name: "King Kunta #006",
     creator: "Quayyum",
     price: 180.25,
     description:
@@ -169,7 +169,7 @@ const NFTData = [
   },
   {
     id: "NFT-06",
-    name: "Rihannah",
+    name: "Rihannah #007",
     creator: "Savage",
     price: 150.25,
     description:
@@ -215,7 +215,7 @@ const NFTData = [
   },
   {
     id: "NFT-07",
-    name: "Makaveli",
+    name: "Makaveli #008",
     creator: "Soft Da Creator",
     price: 180.25,
     description:
@@ -240,7 +240,7 @@ const NFTData = [
   },
   {
     id: "NFT-08",
-    name: "LeBron James",
+    name: "LeBron James #009",
     creator: "Soft Da Creator",
     price: 120.25,
     description:
@@ -265,7 +265,7 @@ const NFTData = [
   },
   {
     id: "NFT-09",
-    name: "Nicki Minaj",
+    name: "Nicki Minaj #010",
     creator: "Abdul-Quayyum",
     price: 110.25,
     description:
@@ -290,7 +290,7 @@ const NFTData = [
   },
   {
     id: "NFT-10",
-    name: "Kobe Bryant",
+    name: "Kobe Bryant #011",
     creator: "Soft Da Creator",
     price: 180.25,
     description:
@@ -315,7 +315,7 @@ const NFTData = [
   },
   {
     id: "NFT-11",
-    name: "Will Smith",
+    name: "Will Smith #012",
     creator: "Soft",
     price: 180.25,
     description:
@@ -340,7 +340,7 @@ const NFTData = [
   },
   {
     id: "NFT-12",
-    name: "Slim Shady",
+    name: "Slim Shady #013",
     creator: "Quayyum",
     price: 180.25,
     description:
@@ -365,7 +365,7 @@ const NFTData = [
   },
   {
     id: "NFT-13",
-    name: "Albert Einstein",
+    name: "Albert Einstein #014",
     creator: "Abdul-Quayyum",
     price: 180.25,
     description:
@@ -390,7 +390,7 @@ const NFTData = [
   },
   {
     id: "NFT-14",
-    name: "J-Cole",
+    name: "J-Cole #015",
     creator: "Soft Da Creator",
     price: 180.25,
     description:
@@ -415,7 +415,7 @@ const NFTData = [
   },
   {
     id: "NFT-15",
-    name: "Tenechi",
+    name: "Tenechi #016",
     creator: "Soft Da Creator",
     price: 180.25,
     description:
@@ -440,7 +440,7 @@ const NFTData = [
   },
   {
     id: "NFT-16",
-    name: "La Flame",
+    name: "La Flame #017",
     creator: "Soft",
     price: 180.25,
     description:
@@ -465,7 +465,7 @@ const NFTData = [
   },
   {
     id: "NFT-17",
-    name: "Pop Smoke",
+    name: "Pop Smoke #018",
     creator: "Soft Da Creator",
     price: 180.25,
     description:
@@ -490,7 +490,7 @@ const NFTData = [
   },
   {
     id: "NFT-18",
-    name: "Chadwick Boseman",
+    name: "Chadwick Boseman #019",
     creator: "Soft Da Creator",
     price: 180.25,
     description:
@@ -515,7 +515,7 @@ const NFTData = [
   },
   {
     id: "NFT-19",
-    name: "Eazy-E",
+    name: "Eazy-E #020",
     creator: "Soft Da Creator",
     price: 180.25,
     description:
@@ -540,7 +540,7 @@ const NFTData = [
   },
   {
     id: "NFT-20",
-    name: "Biggie Smallz",
+    name: "Biggie Smallz #021",
     creator: "Soft Da Creator",
     price: 180.25,
     description:
@@ -565,7 +565,7 @@ const NFTData = [
   },
   {
     id: "NFT-21",
-    name: "Stan Lee",
+    name: "Stan Lee #022",
     creator: "Abdul-Quayyum",
     price: 180.25,
     description:
@@ -590,7 +590,7 @@ const NFTData = [
   },
   {
     id: "NFT-22",
-    name: "Lil Nas-X",
+    name: "Lil Nas-X #023",
     creator: "Savage",
     price: 180.25,
     description:
@@ -615,7 +615,7 @@ const NFTData = [
   },
   {
     id: "NFT-23",
-    name: "Nipsey Hussle",
+    name: "Nipsey Hussle #024",
     creator: "Quayyum Savage",
     price: 180.25,
     description:
@@ -640,7 +640,7 @@ const NFTData = [
   },
    {
     id: "NFT-24",
-    name: "Morty",
+    name: "Morty #025",
     creator: "Quayyum",
     price: 180.25,
     description:
